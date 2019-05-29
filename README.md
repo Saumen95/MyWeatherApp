@@ -19,6 +19,7 @@ dependencies{
 
 Retrofit should use a parser to parse data files(e.g: json)
 Most commonly,we use gson library.To include it in app gradle:
+
 dependencies {
   implementation 'com.google.code.gson:gson:2.8.5'
 }
@@ -42,4 +43,5 @@ dependencies {
 ### API:
 We have used this:(https://openweathermap.org/api)
  You can find API key fom your account dashboard.
+
 
